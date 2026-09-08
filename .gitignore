@@ -1,0 +1,7 @@
+# Raw season files, 12MB, rebuilt by scripts/01-download.R in about a minute
+data-raw/
+data-clean/
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
