@@ -61,12 +61,15 @@ worked in **both** eras and compare each against themselves:
 
 | | fouls against home | cards |
 |---|---|---|
-| Crowds | −0.384 | −0.244 |
-| Empty | **+0.603** | **+0.001** |
+| Crowds | −0.380 | −0.239 |
+| Empty | **+0.624** | **+0.036** |
 
-30 referees, 21 of whom favoured the home side beforehand. During the closures, 21 were
-calling more fouls against home teams than away. The same individuals reversed their own
-bias, so this is not about who got appointed.
+30 referees, those with at least eight matches in each era, 21 of whom favoured the home
+side beforehand. During the closures, 21 were calling more fouls against home teams than
+away. The same individuals reversed their own bias, so this is not about who got appointed.
+
+Dropping the eight match minimum admits three more officials and gives −0.384 and +0.603,
+so the threshold is not carrying the result.
 
 ## What would undermine this
 
